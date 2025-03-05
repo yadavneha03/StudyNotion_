@@ -1,4 +1,4 @@
-# [StudyNotion - EdTech Platform](https://study-notion-seven-nu.vercel.app/)
+
 
 StudyNotion is a fully functional EdTech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
 
@@ -170,13 +170,4 @@ The repository follows a structured folder organization:
 - `.env`: Environment variables configuration file.
 - `package.json`: Dependency and script configuration for Node.js.
 
-## Contributing
-
-Contributions are welcome If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
-
-## Contact
-
-- Email: [ak956901@gmail.com](mailto:ak956901@gmail.com)
-- LinkedIn: [https://in.linkedin.com/in/ashutosh-kumar-170242189](https://in.linkedin.com/in/ashutosh-kumar-170242189)
-- Website: [Ashutosh Kumar](https://portfolio-five-rho-46.vercel.app/)
 
